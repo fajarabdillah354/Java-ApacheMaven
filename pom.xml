@@ -104,7 +104,7 @@
 <!--                <mainClass>runApp.App</mainClass>-->
 <!--              </manifest>-->
               <manifest>
-                <mainClass>JavaMaven.App</mainClass>
+                <mainClass>JavaMaven.Pertamax</mainClass>
               </manifest>
             </archive>
           </configuration>
